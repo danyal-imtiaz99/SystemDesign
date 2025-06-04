@@ -1,9 +1,5 @@
 # System Design Laboratory
 
-![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/system-design-lab)
-![GitHub repo size](https://img.shields.io/github/repo-size/yourusername/system-design-lab)
-![GitHub stars](https://img.shields.io/github/stars/yourusername/system-design-lab?style=social)
-
 ## 🏗️ Building Distributed Systems from the Ground Up
 
 Welcome to my System Design Laboratory - a collection of hands-on Java projects focused on implementing and understanding distributed systems concepts. This repository documents my journey to master system design principles through practical implementation.
