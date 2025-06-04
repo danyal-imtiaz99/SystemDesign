@@ -17,17 +17,6 @@ This repository serves as both a learning tool and a portfolio to:
 - Provide working examples of scalable, resilient systems
 - Track my growth in system design expertise
 
-## 🧩 Projects
-
-Each project tackles different system design challenges:
-
-| Project | Focus Areas | Status |
-|---------|------------|--------|
-| [Distributed Cache](./distributed-cache/) | Consistency, Partitioning, Replication | In Progress |
-| [Task Scheduler](./task-scheduler/) | Fault Tolerance, Load Balancing | Planned |
-| [Data Pipeline](./data-pipeline/) | Stream Processing, Event Sourcing | Planned |
-| [Service Mesh](./service-mesh/) | Service Discovery, Circuit Breaking | Planned |
-| [Distributed Database](./distributed-database/) | Sharding, Consensus Algorithms | Planned |
 
 ## 🛠️ Technologies
 
